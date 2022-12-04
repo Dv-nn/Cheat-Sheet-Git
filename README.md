@@ -1,3 +1,3 @@
-# USE-Git
+USE-Git
 
 # Шпаргалка по Git  
