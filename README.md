@@ -31,7 +31,7 @@ ____
 + ***git checkout my_branch*** - переключиться к ветке my_branch     
 + ***git branch new_branch*** - создание новой ветки new_branch    
 + ***git branch -d my_branch*** - удалить ветку my_branch    
-+***git checkout branch_b / git merge branch_a*** - объеденить branch_b и branch_a    
++ ***git checkout branch_b / git merge branch_a*** - объеденить branch_b и branch_a    
 + ***git tag my_tag*** - добавить тег к текущему комиту  
 + ***git tag -a my_tag -m "commit"*** -  cоздать тeг c комментарием    
 ____
