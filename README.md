@@ -44,4 +44,4 @@ ____
 + ***git help*** - показать справочную информацию о Git  
 + файл ***.gitignore*** — объясняем git, какие файлы следует игнорировать  
 ____
-![]()
+![](https://github.com/Dv-nn/USE-Git/blob/main/git.jpg)  
